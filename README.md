@@ -18,6 +18,8 @@ Clone the repo from: https://github.com/RussoB22/AutoSVGPolygonMaker.git and do 
 
 ## Usage
 Simply enter node index.js and follow the promts.
+Video tutorial:
+<iframe width="560" height="315" src="https://youtu.be/AcQWWysUlpY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Contributing
 If you made an approved pull to the main branch you are a contributer.
